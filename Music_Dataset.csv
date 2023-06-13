@@ -1,0 +1,727 @@
+index,artist,title,genre,mood,year,year_bins,genre id,mood id,time_period
+1,Casual,I Didn't Mean To,Hip Hop/Rap,sad,1994,"(1990, 1995]",5,1,0
+2,Gob,Face the Ashes,Rock,sad,2007,"(2005, 2010]",9,1,3
+5,Tesla,Caught In A Dream,Rock,happy,2004,"(2000, 2005]",9,0,2
+8,Five Bolt Main,Made Like This (Live),Rock,sad,2006,"(2005, 2010]",9,1,3
+9,Willie Bobo,Spanish Grease,Jazz,sad,1997,"(1995, 2000]",6,1,1
+10,John Wesley,The Emperor Falls,Rock,sad,1998,"(1995, 2000]",9,1,1
+11,Billie Jo Spears,It Makes No Difference Now,Country,sad,1992,"(1990, 1995]",2,1,0
+13,Stevie Ray Vaughan,Crossfire,Blues,happy,1992,"(1990, 1995]",0,0,0
+14,Casiotone For The Painfully Alone,Nashville Parthenon,Jazz,sad,2006,"(2005, 2010]",6,1,3
+16,Lost Boyz,Certain Things We Do,Hip Hop/Rap,happy,1997,"(1995, 2000]",5,0,1
+19,The Berzerker,Deform (live),Electronic,sad,2000,"(1995, 2000]",4,1,1
+20,Kings Of Leon,Wicker Chair,Rock,sad,2003,"(2000, 2005]",9,1,2
+21,NOFX,Stickin In My Eye,Rock,happy,1992,"(1990, 1995]",9,0,0
+23,Black Eyed Peas,Let's Get It Started,Hip Hop/Rap,happy,2004,"(2000, 2005]",5,0,2
+24,Nine Inch Nails,Metal,Rock,sad,2000,"(1995, 2000]",9,1,1
+28,Savage Garden,You Can Still Be Free,Rock,sad,1999,"(1995, 2000]",9,1,1
+29,Queens Of The Stone Age,I Never Came,Rock,sad,2005,"(2000, 2005]",9,1,2
+31,Redman,WKYA (drop),Hip Hop/Rap,happy,2001,"(2000, 2005]",5,0,2
+32,Organized Konfusion,Hate,Hip Hop/Rap,sad,1997,"(1995, 2000]",5,1,1
+33,Martina McBride,I Can't Stop Loving You,Country,sad,2005,"(2000, 2005]",2,1,2
+36,Boyz II Men,On Bended Knee,R&B,sad,1994,"(1990, 1995]",8,1,0
+38,Wolfmother,White Feather,Rock,happy,2009,"(2005, 2010]",9,0,3
+39,Jupiter Rising,They Say (Album),Pop,happy,2007,"(2005, 2010]",7,0,3
+40,Saafir,Crawl Before You Ball (Album Version),Hip Hop/Rap,sad,1999,"(1995, 2000]",5,1,1
+42,Maxi Priest,Groovin' In The Midnight,Ska,happy,1991,"(1990, 1995]",10,0,0
+43,Porcupine Tree,Waiting,Rock,sad,1997,"(1995, 2000]",9,1,1
+44,Foo Fighters,Hell,Rock,sad,2005,"(2000, 2005]",9,1,2
+46,Britt Nicole,Hanging On (Medium Key Performance Track Without Background Vocals),Christian,happy,2009,"(2005, 2010]",1,0,3
+48,Pearl Jam,Inside Job,Rock,happy,2006,"(2005, 2010]",9,0,3
+49,Natalie Cole,Take A Look  (LP Version),R&B,sad,1993,"(1990, 1995]",8,1,0
+50,DJ Quik,Born and Raised In Compton,Hip Hop/Rap,happy,1991,"(1990, 1995]",5,0,0
+52,Diesel Boy,Cooler Than You,Rock,happy,1998,"(1995, 2000]",9,0,1
+53,Cradle Of Filth,Summer Dying Fast,Rock,sad,1994,"(1990, 1995]",9,1,0
+54,Test Icicles,Snowball,Electronic,sad,2005,"(2000, 2005]",4,1,2
+56,Dimmu Borgir,Master Of Disharmony,Rock,sad,1996,"(1995, 2000]",9,1,1
+58,Chris Brown,Forever,R&B,happy,2008,"(2005, 2010]",8,0,3
+59,Hem,Have Yourself A Merry Little Christmas,Pop,happy,2005,"(2000, 2005]",7,0,2
+60,Lily Allen,U Killed It,Pop,sad,2006,"(2005, 2010]",7,1,3
+61,The Killers,Spaceman,Rock,sad,2008,"(2005, 2010]",9,1,3
+63,Rage Against The Machine,Kick Out The Jams,Hip Hop/Rap,happy,2000,"(1995, 2000]",5,0,1
+64,Rise Against,Amber Changing,Rock,happy,2003,"(2000, 2005]",9,0,2
+65,Korn,Hey Daddy,Rock,sad,1999,"(1995, 2000]",9,1,1
+66,Agnes,I Need You Now,Rock,sad,2009,"(2005, 2010]",9,1,3
+67,Tantric,Walk Away,Rock,happy,2009,"(2005, 2010]",9,0,3
+68,Mastodon,Shadows That Move,Rock,sad,2001,"(2000, 2005]",9,1,2
+69,Korn,Ever Be,Rock,sad,2007,"(2005, 2010]",9,1,3
+71,Prozak,Go To Hell,Hip Hop/Rap,sad,2004,"(2000, 2005]",5,1,2
+72,Placebo,English Summer Rain,Pop,sad,2003,"(2000, 2005]",7,1,2
+73,LORE,Haunting,Rock,sad,2008,"(2005, 2010]",9,1,3
+74,Soul Asylum,Lies Of Hate,Rock,sad,1998,"(1995, 2000]",9,1,1
+75,Nightwish,Escapist,Rock,happy,2007,"(2005, 2010]",9,0,3
+76,Silverstein,Always And Never (Album Version),Rock,sad,2005,"(2000, 2005]",9,1,2
+77,The Notorious B.I.G.,Who Shot Ya (Amended Album Version),Hip Hop/Rap,sad,2007,"(2005, 2010]",5,1,3
+78,Sandi Thom,Wounded Hearts,Pop,happy,2008,"(2005, 2010]",7,0,3
+79,Gene Clark,Set You Free This Time,Rock,sad,1998,"(1995, 2000]",9,1,1
+81,Panic At The Disco,Northern Downpour (Album Version),Rock,sad,2008,"(2005, 2010]",9,1,3
+83,Sticky Fingaz,Oh My God,Hip Hop/Rap,sad,2000,"(1995, 2000]",5,1,1
+87,Backstreet Boys,Larger Than Life,Pop,happy,1999,"(1995, 2000]",7,0,1
+89,Tom Petty,A Higher Place (Album Version),Rock,sad,1994,"(1990, 1995]",9,1,0
+90,Mitch Ryder,Jenny Take a Ride,Rock,happy,2004,"(2000, 2005]",9,0,2
+91,Lupe Fiasco,Streets On Fire (Explicit Album Version),Hip Hop/Rap,sad,2007,"(2005, 2010]",5,1,3
+92,Gwen Stefani,Harajuku Girls,Pop,happy,2004,"(2000, 2005]",7,0,2
+93,Story Of The Year,Swallow The Knife (Live) (Segue),Rock,sad,2005,"(2000, 2005]",9,1,2
+94,Natural Elements,Mayday,Hip Hop/Rap,sad,1998,"(1995, 2000]",5,1,1
+95,Neil Sedaka,Because Of You,Pop,happy,1999,"(1995, 2000]",7,0,1
+96,A Static Lullaby,Rattlesnake!,Rock,sad,2008,"(2005, 2010]",9,1,3
+97,Nights Like These,Ghost Town Rituals (Album Version),Rock,sad,2006,"(2005, 2010]",9,1,3
+98,Oasis,Morning Glory,Pop,happy,1995,"(1990, 1995]",7,0,0
+100,All Time Low,Shameless,Rock,happy,2007,"(2005, 2010]",9,0,3
+101,Daath,From The Blind (LP Version),Rock,sad,2006,"(2005, 2010]",9,1,3
+103,VHS Or Beta,The Melting Moon (Edit),Rock,happy,2004,"(2000, 2005]",9,0,2
+104,Bullet For My Valentine,Suffocating Under Words Of Sorrow (What Can I Do),Rock,sad,2005,"(2000, 2005]",9,1,2
+105,Beatnuts,Monster For Music,Hip Hop/Rap,sad,1999,"(1995, 2000]",5,1,1
+106,Rise Against,Everchanging,Rock,sad,2001,"(2000, 2005]",9,1,2
+108,Amy Winehouse,Stronger Than Me,R&B,happy,2003,"(2000, 2005]",8,0,2
+109,Michael Card,Joy In The Journey (The Final Word Album Version),Christian,happy,1992,"(1990, 1995]",1,0,0
+110,A Static Lullaby,God Bless You (Goddamn it),Rock,sad,2005,"(2000, 2005]",9,1,2
+111,Scar Symmetry,The Illusionist,Rock,happy,2006,"(2005, 2010]",9,0,3
+112,Eighteen Visions,Our Darkest Days,Rock,sad,2006,"(2005, 2010]",9,1,3
+114,Weezer,Don't Let Go,Rock,happy,2001,"(2000, 2005]",9,0,2
+115,Jackson United,Undertow,Rock,happy,2008,"(2005, 2010]",9,0,3
+117,Hatebreed,As Diehard As They Come (Album Version),Rock,sad,2006,"(2005, 2010]",9,1,3
+118,Sister Hazel,Walls And Cannonballs (Album),Rock,happy,2010,"(2005, 2010]",9,0,3
+119,Kings Of Leon,Knocked Up,Rock,sad,2007,"(2005, 2010]",9,1,3
+120,Brooke Valentine,Taste Of Dis (Explicit Version),Hip Hop/Rap,happy,2005,"(2000, 2005]",5,0,2
+121,Mary Black,Turning Away,Pop,happy,1999,"(1995, 2000]",7,0,1
+122,Owl City,Panda Bear,Electronic,happy,2007,"(2005, 2010]",4,0,3
+124,Shakira,Pienso En Ti,Pop,sad,1995,"(1990, 1995]",7,1,0
+125,Blink-182,A New Hope,Rock,happy,1997,"(1995, 2000]",9,0,1
+126,Abysmal Dawn,Compulsory Resurrection,Rock,sad,2008,"(2005, 2010]",9,1,3
+127,Chaotica,Lobotomy,Rock,sad,1999,"(1995, 2000]",9,1,1
+130,Zeromancer,Ammonite,Rock,sad,2009,"(2005, 2010]",9,1,3
+131,Two Man Advantage,The Sweep,Rock,happy,2001,"(2000, 2005]",9,0,2
+132,Green Day,Wake Me Up When September Ends (Live at Foxboro_ MA 9/3/05),Rock,sad,2005,"(2000, 2005]",9,1,2
+134,Architecture In Helsinki,Heart it Races (Frank Tetaz Remix),Rock,happy,2007,"(2005, 2010]",9,0,3
+135,Alice In Chains,Lesson Learned,Rock,sad,2009,"(2005, 2010]",9,1,3
+136,Ini Kamoze,Here Comes The Hotstepper,Ska,happy,1995,"(1990, 1995]",10,0,0
+137,Baroness,The Sweetest Curse,Rock,sad,2009,"(2005, 2010]",9,1,3
+138,Placebo,Slave To The Wage,Pop,sad,2000,"(1995, 2000]",7,1,1
+140,Mötley Crüe,Get It For Free,Rock,happy,1999,"(1995, 2000]",9,0,1
+141,Keb' Mo',Still There For Me,Blues,happy,2006,"(2005, 2010]",0,0,3
+143,Robben Ford,Something For The Pain,Jazz,sad,2002,"(2000, 2005]",6,1,2
+144,Anti-Flag,This Is NOT a Crass Song,Rock,happy,1999,"(1995, 2000]",9,0,1
+146,Shelby Lynne,Old Times Sake,Country,sad,2005,"(2000, 2005]",2,1,2
+147,Franz Ferdinand,Eleanor Put Your Boots On,Rock,happy,2005,"(2000, 2005]",9,0,2
+149,BigElf,Falling Bombs,Rock,sad,2003,"(2000, 2005]",9,1,2
+150,Kelly Clarkson,My Life Would Suck Without You,Rock,happy,2009,"(2005, 2010]",9,0,3
+151,The Exies,Creeper Kamikaze,Rock,happy,2003,"(2000, 2005]",9,0,2
+153,3 Doors Down,It's Not Me,Rock,sad,2003,"(2000, 2005]",9,1,2
+155,Zombie Girl,I Want It,Electronic,sad,2006,"(2005, 2010]",4,1,3
+156,Bone Thugs-N-Harmony,Murder One,Hip Hop/Rap,sad,2000,"(1995, 2000]",5,1,1
+157,Mastodon,Deep Sea Creature,Rock,sad,2001,"(2000, 2005]",9,1,2
+159,Dave Hollister,Tell Me Why,Soul,sad,2006,"(2005, 2010]",11,1,3
+160,DMX,Damien,Hip Hop/Rap,happy,1998,"(1995, 2000]",5,0,1
+161,Jewel,Serve The Ego (Hani Num Dub),Rock,happy,2002,"(2000, 2005]",9,0,2
+162,Nick Cave & The Bad Seeds,Still In Love,Rock,sad,2003,"(2000, 2005]",9,1,2
+163,Bury Your Dead,Closed Eyes,Rock,sad,2009,"(2005, 2010]",9,1,3
+164,G-Unit,Poppin' Them Thangs,Hip Hop/Rap,sad,2003,"(2000, 2005]",5,1,2
+165,Saosin,Bury Your Head,Rock,sad,2005,"(2000, 2005]",9,1,2
+166,Warren Barfield,Shadow,Christian,happy,2006,"(2005, 2010]",1,0,3
+167,Dilated Peoples,Big Business,Hip Hop/Rap,sad,2004,"(2000, 2005]",5,1,2
+168,Fever Ray,I'm Not Done,Electronic,happy,2009,"(2005, 2010]",4,0,3
+169,Johnny Cash,I Got Stripes (Live),Country,happy,2006,"(2005, 2010]",2,0,3
+170,Autumnblaze,Her Golden Robe In Silence Veiled,Rock,sad,1999,"(1995, 2000]",9,1,1
+172,Gary Moore,Rockin' Every Night (Live),Rock,happy,2005,"(2000, 2005]",9,0,2
+173,Christina Aguilera,Walk Away,Pop,sad,2002,"(2000, 2005]",7,1,2
+176,Ensiferum,Hero In A Dream,Rock,happy,1999,"(1995, 2000]",9,0,1
+177,Red Hot Chili Peppers,Get On Top (Album Version),Rock,sad,1999,"(1995, 2000]",9,1,1
+178,Tom Petty And The Heartbreakers,Mary Jane's Last Dance,Rock,happy,1993,"(1990, 1995]",9,0,0
+179,John Hammond,Come To Find Out,Blues,happy,2005,"(2000, 2005]",0,0,2
+180,Sweet,Airheads,Rock,happy,2002,"(2000, 2005]",9,0,2
+181,Chimaira,The Flame,Rock,sad,2007,"(2005, 2010]",9,1,3
+182,Snow Patrol,Chocolate,Rock,sad,2003,"(2000, 2005]",9,1,2
+184,Michael Jackson,HISTORY,R&B,sad,1995,"(1990, 1995]",8,1,0
+186,Raze,Follow Your Dreams (The Plan Album Version),Hip Hop/Rap,happy,2000,"(1995, 2000]",5,0,1
+187,The Presets,Yippiyo-Ay,Electronic,happy,2008,"(2005, 2010]",4,0,3
+188,Jennifer Lopez,Talk About Us,Pop,sad,1999,"(1995, 2000]",7,1,1
+189,Silverstein,FRIENDS IN FALL RIVER  (LP Version),Rock,happy,2006,"(2005, 2010]",9,0,3
+191,Matisyahu,Exaltation,Ska,happy,2004,"(2000, 2005]",10,0,2
+194,Cracker,Shake Some Action,Rock,happy,1995,"(1990, 1995]",9,0,0
+197,3 Doors Down,Sarah Yellin',Rock,sad,2002,"(2000, 2005]",9,1,2
+198,The Rapture,Killing,Rock,sad,2003,"(2000, 2005]",9,1,2
+199,Dinosaur Jr,On The Brink,Rock,sad,1994,"(1990, 1995]",9,1,0
+200,Snow Patrol,Half The Fun,Rock,sad,2004,"(2000, 2005]",9,1,2
+202,Ultimate Fakebook,Brokÿn Nëedle,Rock,happy,2000,"(1995, 2000]",9,0,1
+203,Darwin Hobbs,You Are God (Broken Album Version),Christian,happy,2003,"(2000, 2005]",1,0,2
+205,Britney Spears,Don't Go Knockin' On My Door,Pop,happy,2000,"(1995, 2000]",7,0,1
+206,Skeletonwitch,Sacrifice for the Slaughtergod,Rock,sad,2007,"(2005, 2010]",9,1,3
+208,Maximilian Hecker,Full Of Voices,Pop,sad,2005,"(2000, 2005]",7,1,2
+210,Semisonic,If I Run,Rock,happy,1993,"(1990, 1995]",9,0,0
+211,Novaspace,Guardian Angel,Electronic,sad,2002,"(2000, 2005]",4,1,2
+212,Colin James,Sending A Message,Rock,happy,2003,"(2000, 2005]",9,0,2
+213,John Mayer,Something's Missing,Rock,sad,2003,"(2000, 2005]",9,1,2
+214,Dropline,Weight Of The World (Album Version),Rock,sad,2010,"(2005, 2010]",9,1,3
+216,Cancer Bats,Sabotage,Rock,sad,2010,"(2005, 2010]",9,1,3
+217,DJ Quik,Pacific Coast Remix,Hip Hop/Rap,happy,2006,"(2005, 2010]",5,0,3
+218,Blackalicious,Rock the Spot,Hip Hop/Rap,happy,1999,"(1995, 2000]",5,0,1
+222,Rihanna,Don't Stop The Music,R&B,happy,2007,"(2005, 2010]",8,0,3
+223,Dokken,Disease,Rock,sad,2008,"(2005, 2010]",9,1,3
+225,Skrape,Searching For Home,Rock,sad,2003,"(2000, 2005]",9,1,2
+226,Céline Dion,The Reason I Go On,Pop,happy,2007,"(2005, 2010]",7,0,3
+227,Silverchair,Cicada,Rock,happy,1995,"(1990, 1995]",9,0,0
+228,Metallica,The End Of The Line,Rock,happy,2008,"(2005, 2010]",9,0,3
+229,Casiotone For The Painfully Alone,Rice Dream Girl,Jazz,sad,1999,"(1995, 2000]",6,1,1
+230,Mando Diao,Misty Mountains,Rock,happy,2007,"(2005, 2010]",9,0,3
+231,Donnie McClurkin,All I Ever Really Wanted,Christian,happy,2003,"(2000, 2005]",1,0,2
+232,Lost Boyz,Get Your Hustle On,Hip Hop/Rap,sad,1997,"(1995, 2000]",5,1,1
+233,Daath,Above Lucium (LP Version),Rock,sad,2006,"(2005, 2010]",9,1,3
+235,Jennifer Brown,Naked,Pop,happy,1998,"(1995, 2000]",7,0,1
+236,Pepper,Freeze,Rock,happy,2008,"(2005, 2010]",9,0,3
+237,Red Hot Chili Peppers,Naked In The Rain (Album Version),Rock,happy,1991,"(1990, 1995]",9,0,0
+238,Jonny Lang,The One I Got,Christian,happy,2003,"(2000, 2005]",1,0,2
+240,Donna The Buffalo,Tides Of Time,Rock,happy,1999,"(1995, 2000]",9,0,1
+241,Little Feat,Down On The Farm (2006 Remastered Edit Version),Pop,happy,2006,"(2005, 2010]",7,0,3
+242,Death From Above 1979,Romantic Rights,Rock,happy,2004,"(2000, 2005]",9,0,2
+243,Foo Fighters,If Ever,Rock,happy,2007,"(2005, 2010]",9,0,3
+244,Eyehategod,Left To Starve,Rock,sad,1992,"(1990, 1995]",9,1,0
+245,The Antlers,Stairs To the Attic,Pop,happy,2007,"(2005, 2010]",7,0,3
+246,Open Hand,The Ambush,Rock,sad,2004,"(2000, 2005]",9,1,2
+247,Kanye West,Through The Wire,Hip Hop/Rap,happy,2003,"(2000, 2005]",5,0,2
+248,Lloyd Banks,South Side Story,Hip Hop/Rap,sad,2004,"(2000, 2005]",5,1,2
+249,Sister Hazel,Space Between Us (Album Version),Rock,happy,1994,"(1990, 1995]",9,0,0
+252,Shawn Colvin,Sunny Came Home,Rock,sad,1996,"(1995, 2000]",9,1,1
+253,Mobb Deep,Got It Twisted,Hip Hop/Rap,sad,2004,"(2000, 2005]",5,1,2
+256,Monster Magnet,CNN War Theme,Rock,sad,2004,"(2000, 2005]",9,1,2
+257,Nirvana,Heart-Shaped Box,Rock,sad,1993,"(1990, 1995]",9,1,0
+258,Randy Travis,Down At The Old Corral (Album Version),Country,happy,1993,"(1990, 1995]",2,0,0
+259,The Black Crowes,Nonfiction,Rock,happy,1994,"(1990, 1995]",9,0,0
+260,G-Unit,Money Make The World Go Around,Hip Hop/Rap,sad,2008,"(2005, 2010]",5,1,3
+261,Mat Kearney,Never Be Ready,Rock,happy,2009,"(2005, 2010]",9,0,3
+262,Julie Roberts,Unlove Me,Country,sad,2004,"(2000, 2005]",2,1,2
+263,The Presets,If I Know You,Electronic,sad,2008,"(2005, 2010]",4,1,3
+264,Irma Thomas,River Is Waiting,Blues,happy,2008,"(2005, 2010]",0,0,3
+265,The Cardigans,Iron Man,Rock,sad,1996,"(1995, 2000]",9,1,1
+267,Silverchair,Suicidal Dream,Rock,sad,1995,"(1990, 1995]",9,1,0
+268,U2,New York,Rock,sad,2000,"(1995, 2000]",9,1,1
+269,Shakira,Did It Again (featuring Kid Cudi),Pop,sad,2009,"(2005, 2010]",7,1,3
+270,Erik Hassle,Don't Bring Flowers,Pop,sad,2009,"(2005, 2010]",7,1,3
+271,Soul Embraced,Someday (Immune Album Version),Rock,sad,2003,"(2000, 2005]",9,1,2
+273,Avril Lavigne,Innocence,Rock,happy,2007,"(2005, 2010]",9,0,3
+274,Chimaira,Severed (demo) (Album Version),Rock,sad,2001,"(2000, 2005]",9,1,2
+275,Bumblefoot,Abnormal (Acoustic),Rock,sad,2008,"(2005, 2010]",9,1,3
+276,Hem,Redwing,Pop,happy,2004,"(2000, 2005]",7,0,2
+279,Dead Prez,Be Healthy,Hip Hop/Rap,happy,2000,"(1995, 2000]",5,0,1
+281,Muse,Stockholm Syndrome,Rock,sad,2006,"(2005, 2010]",9,1,3
+284,Simple Minds,Chelsea Girl (Live),Rock,happy,2004,"(2000, 2005]",9,0,2
+285,The Killers,Show You How,Rock,sad,2004,"(2000, 2005]",9,1,2
+287,Charlotte Gainsbourg,Tel Que Tu Es,Pop,sad,2006,"(2005, 2010]",7,1,3
+289,Del Tha Funkee Homosapien,Mistadobalina,Hip Hop/Rap,happy,1991,"(1990, 1995]",5,0,0
+290,Rihanna,Good Girl Gone Bad,R&B,happy,2007,"(2005, 2010]",8,0,3
+291,Britney Spears,Everytime,Pop,sad,2003,"(2000, 2005]",7,1,2
+292,Rise Against,State Of The Union,Rock,sad,2004,"(2000, 2005]",9,1,2
+293,Helmet,Your Head,Hip Hop/Rap,sad,1995,"(1990, 1995]",5,1,0
+294,Shaman,For Tomorrow (live),Electronic,happy,2003,"(2000, 2005]",4,0,2
+295,K-OS,Clap Ur Handz,Hip Hop/Rap,happy,2004,"(2000, 2005]",5,0,2
+296,Delbert McClinton,Lose Your Money,Country,happy,2000,"(1995, 2000]",2,0,1
+298,Washboard Sam,Bucket's Got A Hole In It,Blues,happy,1994,"(1990, 1995]",0,0,0
+299,Tammy Wynette,Welcome To My World (Live),Country,happy,2000,"(1995, 2000]",2,0,1
+300,Fun Lovin' Criminals,We Have All The Time In The World (Live),Hip Hop/Rap,happy,1996,"(1995, 2000]",5,0,1
+301,OutKast,Happy Valentine's Day,Hip Hop/Rap,happy,2003,"(2000, 2005]",5,0,2
+305,Tonic,Where Do I Fit,Rock,sad,2010,"(2005, 2010]",9,1,3
+306,Dave Hollister,Bad When U Broke,Soul,sad,2010,"(2005, 2010]",11,1,3
+311,The Pineapple Thief,Snowdrops,Rock,sad,2006,"(2005, 2010]",9,1,3
+312,Buddy Jewell,Sweet Southern Comfort,Country,happy,2003,"(2000, 2005]",2,0,2
+313,House Of Lords,Rock Bottom,Rock,happy,2006,"(2005, 2010]",9,0,3
+314,Fun Lovin' Criminals,Love Unlimited (Explicit),Hip Hop/Rap,happy,1998,"(1995, 2000]",5,0,1
+315,Chaotica,Turbocharger,Electronic,sad,2000,"(1995, 2000]",4,1,1
+316,Placebo,Hardly Wait,Rock,sad,2009,"(2005, 2010]",9,1,3
+317,Kraftwerk,Computer Love (2009 Digital Remaster),Electronic,sad,2007,"(2005, 2010]",4,1,3
+318,FFH,Great Big Problem,Christian,sad,2005,"(2000, 2005]",1,1,2
+319,NOFX,My Heart Is Yearning,Rock,happy,1994,"(1990, 1995]",9,0,0
+320,GWAR,Let's Blame The Lightman,Rock,happy,1997,"(1995, 2000]",9,0,1
+322,Geggy Tah,Gina,Jazz,happy,1996,"(1995, 2000]",6,0,1
+323,Loretta Lynn,I Can't Feel You Anymore,Country,happy,1994,"(1990, 1995]",2,0,0
+324,Mista,I'll Sweat You (LP Version),Electronic,happy,1996,"(1995, 2000]",4,0,1
+325,The Fray,Vienna,Rock,sad,2002,"(2000, 2005]",9,1,2
+328,Pepper,Stormtrooper (Live),Rock,sad,2009,"(2005, 2010]",9,1,3
+330,Twila Paris,We Will Glorify (Key-B-Db-Premiere Performance Plus),Christian,happy,1991,"(1990, 1995]",1,0,0
+331,Bob Carlisle,Man Of No Reputation,Christian,sad,1994,"(1990, 1995]",1,1,0
+332,Eminem,Ricky Ticky Toc,Hip Hop/Rap,sad,2004,"(2000, 2005]",5,1,2
+333,Barry Manilow,Come Monday,Pop,happy,2001,"(2000, 2005]",7,0,2
+335,Jimi Hendrix,Voodoo Chile Blues,Rock,sad,1994,"(1990, 1995]",9,1,0
+336,Tommy Castro,Sho' Enough,Blues,happy,1996,"(1995, 2000]",0,0,1
+337,William Orbit,The Monkey King,Rock,sad,1993,"(1990, 1995]",9,1,0
+338,Point Of Grace,Amazing (LP Version),Christian,happy,1998,"(1995, 2000]",1,0,1
+339,Jack Johnson,You And Your Heart,Rock,sad,2010,"(2005, 2010]",9,1,3
+340,Blue October,My Never,Rock,sad,2009,"(2005, 2010]",9,1,3
+343,Phil Collins,Welcome,Pop,happy,2003,"(2000, 2005]",7,0,2
+345,Mindless Self Indulgence,Never Wanted to Dance (Live In London),Electronic,happy,2008,"(2005, 2010]",4,0,3
+346,Jim Bryson,Somewhere Else,Country,sad,2003,"(2000, 2005]",2,1,2
+347,Information Society,More to This,Electronic,sad,2007,"(2005, 2010]",4,1,3
+348,Foo Fighters,X-Static,Rock,sad,1995,"(1990, 1995]",9,1,0
+349,U2,Vertigo,Rock,happy,2004,"(2000, 2005]",9,0,2
+351,Gym Class Heroes,New Friend Request (Amended Version),Hip Hop/Rap,sad,2006,"(2005, 2010]",5,1,3
+352,Frankee,Gotta Man,Hip Hop/Rap,happy,2004,"(2000, 2005]",5,0,2
+353,Operator,Soulcrusher (Amended Album Version),Rock,sad,2007,"(2005, 2010]",9,1,3
+354,The Stooges,T.V. Eye (Take 3),Rock,happy,1999,"(1995, 2000]",9,0,1
+355,Snow Patrol,Chasing Cars,Rock,sad,2006,"(2005, 2010]",9,1,3
+356,Moonspell,Tired,Rock,sad,1999,"(1995, 2000]",9,1,1
+357,Heaven 17,Resurrection Man,Rock,happy,1996,"(1995, 2000]",9,0,1
+358,The Suicide Machines,Your Silence,Rock,sad,2003,"(2000, 2005]",9,1,2
+359,Vaselines,Teenage Superstars (Album),Rock,sad,1992,"(1990, 1995]",9,1,0
+361,Alice In Chains,Sickman,Rock,sad,1992,"(1990, 1995]",9,1,0
+362,Seal,Prayer For The Dying (Album Version),Pop,sad,1994,"(1990, 1995]",7,1,0
+363,The Pineapple Thief,Boxing Day,Rock,happy,2006,"(2005, 2010]",9,0,3
+365,Static-X,Love Dump (Clean Album Version),Rock,sad,1999,"(1995, 2000]",9,1,1
+367,The Black Crowes,Girl From A Pawnshop,Rock,sad,1996,"(1995, 2000]",9,1,1
+368,Foo Fighters,Razor,Rock,sad,2005,"(2000, 2005]",9,1,2
+369,Hot Chip,Hold On,Electronic,sad,2008,"(2005, 2010]",4,1,3
+370,Mudhoney,It Is Us,Rock,happy,2006,"(2005, 2010]",9,0,3
+371,Latif,Luv In the First,R&B,happy,2003,"(2000, 2005]",8,0,2
+375,Emperor,With Strength I Burn,Rock,sad,1997,"(1995, 2000]",9,1,1
+376,Uriah Heep,Wake The Sleeper,Rock,sad,2008,"(2005, 2010]",9,1,3
+378,Sugarbomb,Gone,Rock,happy,2001,"(2000, 2005]",9,0,2
+379,Paloalto,Seed,Rock,sad,2003,"(2000, 2005]",9,1,2
+383,Whitesnake,Love Ain't No Stranger (2003 Digital Remaster),Rock,happy,2003,"(2000, 2005]",9,0,2
+384,Twista,The Day After (featuring Syleena Johnson) (Explicit Chopped & Screwed Version),Hip Hop/Rap,sad,2005,"(2000, 2005]",5,1,2
+386,Shania Twain,Raining On Our Love,Country,sad,1995,"(1990, 1995]",2,1,0
+387,The High Strung,The Luck You Got,Rock,happy,2005,"(2000, 2005]",9,0,2
+389,K-OS,Heaven Only Knows,Hip Hop/Rap,sad,2002,"(2000, 2005]",5,1,2
+390,Dave Hollister,I'm Wrong,Soul,sad,2006,"(2005, 2010]",11,1,3
+392,Mirah,Apples in the Trees (Live),Rock,happy,2001,"(2000, 2005]",9,0,2
+395,From Autumn To Ashes,Sensory Deprivation Adventure,Rock,sad,2007,"(2005, 2010]",9,1,3
+396,Casiotone For The Painfully Alone,Dying Batteries,Jazz,sad,2001,"(2000, 2005]",6,1,2
+397,James Taylor,One More Go Round,Rock,happy,1991,"(1990, 1995]",9,0,0
+398,Gang Starr,Say Your Prayers,Hip Hop/Rap,sad,1991,"(1990, 1995]",5,1,0
+400,Wayne Watson,Somebody Sing,Christian,happy,2002,"(2000, 2005]",1,0,2
+401,Pearl Jam,4/20/2002,Rock,sad,1993,"(1990, 1995]",9,1,0
+403,Avril Lavigne,How Does It Feel,Rock,sad,2004,"(2000, 2005]",9,1,2
+405,Lil Boosie,I Remember (amended album version),Hip Hop/Rap,sad,2006,"(2005, 2010]",5,1,3
+406,Wilshire,When,Christian,sad,2003,"(2000, 2005]",1,1,2
+407,Cowboy Mouth,Disconnected,Rock,happy,2003,"(2000, 2005]",9,0,2
+409,Amoral,The Last Round,Rock,sad,2004,"(2000, 2005]",9,1,2
+412,Lizzy Borden,There Will Be Blood Tonight,Rock,sad,2000,"(1995, 2000]",9,1,1
+413,BigElf,Superstar,Rock,happy,2008,"(2005, 2010]",9,0,3
+415,Atari Teenage Riot,Destroy 2000 Years Of Culture,Electronic,sad,1997,"(1995, 2000]",4,1,1
+417,Katie Armiger,Love Without Fear,Country,happy,2007,"(2005, 2010]",2,0,3
+419,Bob Wills,Bubbles in My Beer,Country,happy,1991,"(1990, 1995]",2,0,0
+420,Fat Joe,Prove Something (explicit album version),Hip Hop/Rap,sad,2002,"(2000, 2005]",5,1,2
+421,Blue Rodeo,Mystic River,Rock,happy,2007,"(2005, 2010]",9,0,3
+422,Ice Cube,Why We Thugs (edited version),Hip Hop/Rap,sad,2006,"(2005, 2010]",5,1,3
+423,Radney Foster,Again,Country,sad,2002,"(2000, 2005]",2,1,2
+425,Dark Fortress,Evenfall,Rock,sad,2010,"(2005, 2010]",9,1,3
+426,Ayo,Down On My Knees,R&B,sad,2006,"(2005, 2010]",8,1,3
+427,Mindy McCready,Be With Me,Country,happy,2002,"(2000, 2005]",2,0,2
+428,BT,Knowledge Of Self (Evol Intent Remix),Electronic,sad,2004,"(2000, 2005]",4,1,2
+429,Geggy Tah,Special Someone,Rock,happy,2001,"(2000, 2005]",9,0,2
+430,Bumblefoot,Piranha,Rock,happy,2008,"(2005, 2010]",9,0,3
+431,Red Hot Chili Peppers,Venice Queen (Album Version),Rock,happy,2002,"(2000, 2005]",9,0,2
+433,Blind Willie Johnson,If I Had My Way I'd Tear This Building Down,Blues,happy,1996,"(1995, 2000]",0,0,1
+434,Bob Marley,Small Axe,Ska,happy,1999,"(1995, 2000]",10,0,1
+435,A Tribe Called Quest,Scenario,Hip Hop/Rap,happy,1991,"(1990, 1995]",5,0,0
+436,Epidemic,Catalyst (LP Version),Rock,sad,2002,"(2000, 2005]",9,1,2
+437,Dark Fortress,Ghastly Indoctrination,Rock,sad,2006,"(2005, 2010]",9,1,3
+439,Kings Of Leon,Genius,Rock,happy,2003,"(2000, 2005]",9,0,2
+441,Kraftwerk,Pocket Calculator (2009 Digital Remaster),Electronic,happy,2009,"(2005, 2010]",4,0,3
+443,L7,This Ain't Pleasure,Rock,sad,1992,"(1990, 1995]",9,1,0
+444,Moments In Grace,Broken Promises (album version),Rock,sad,2004,"(2000, 2005]",9,1,2
+445,Connie Smith,I'll Come Running,Country,happy,2001,"(2000, 2005]",2,0,2
+446,Nine Inch Nails,Survivalism,Rock,sad,2007,"(2005, 2010]",9,1,3
+448,Eminem,Beautiful,Hip Hop/Rap,happy,2009,"(2005, 2010]",5,0,3
+449,Mariah Carey,Mine Again,Pop,sad,2005,"(2000, 2005]",7,1,2
+450,Frankie J,Gone,R&B,sad,2005,"(2000, 2005]",8,1,2
+451,Bob Marley,Lively Up Yourself,Ska,happy,1991,"(1990, 1995]",10,0,0
+453,Backstreet Boys,Shape Of My Heart,Pop,happy,2000,"(1995, 2000]",7,0,1
+454,Korn,Proud,Rock,sad,1996,"(1995, 2000]",9,1,1
+456,Rihanna,Music Of The Sun,R&B,happy,2005,"(2000, 2005]",8,0,2
+457,Matisyahu,Refuge,Ska,sad,2004,"(2000, 2005]",10,1,2
+458,Ashton Shepherd,Old Memory,Country,sad,2008,"(2005, 2010]",2,1,3
+459,Tom Cochrane,Washed Away,Rock,happy,1992,"(1990, 1995]",9,0,0
+460,Gov't Mule,Broke Down On The Brazos (Album),Rock,happy,2009,"(2005, 2010]",9,0,3
+461,Sir Douglas Quintet,She's About A Mover,Rock,happy,1999,"(1995, 2000]",9,0,1
+462,Michelle Tumes,Christe Eleison (Christ Have Mercy) (Center Of My Universe Album Version),Christian,sad,2000,"(1995, 2000]",1,1,1
+465,Rea_ Chris,E,Rock,sad,1999,"(1995, 2000]",9,1,1
+466,Baby D,Let Me Be Your Fantasy,Electronic,happy,2002,"(2000, 2005]",4,0,2
+467,Patti Smith,Wing,Rock,sad,1996,"(1995, 2000]",9,1,1
+469,Van Halen,Can't Stop Lovin' You (Remastered Album Version),Rock,happy,1995,"(1990, 1995]",9,0,0
+470,Wolfmother,Dimension,Rock,happy,2004,"(2000, 2005]",9,0,2
+471,Suicidal Tendencies,It's Going Down,Rock,sad,1992,"(1990, 1995]",9,1,0
+474,Kathy Mattea,The Southern Soldier Boy,Country,sad,1991,"(1990, 1995]",2,1,0
+475,White Heart,Edge Of The Dream (Emergency Broadcast Album Version),Christian,happy,2000,"(1995, 2000]",1,0,1
+476,Chuck Wicks,If We Loved,Country,sad,2008,"(2005, 2010]",2,1,3
+477,Beyoncé,Ring The Alarm,R&B,sad,2006,"(2005, 2010]",8,1,3
+478,Steve Vai,Brother,Rock,sad,1996,"(1995, 2000]",9,1,1
+482,The Ataris,The Hero Dies in This One,Rock,sad,2003,"(2000, 2005]",9,1,2
+483,Fall Out Boy,Dance_ Dance,Rock,happy,2008,"(2005, 2010]",9,0,3
+485,Patty Griffin,Moses,Rock,sad,1996,"(1995, 2000]",9,1,1
+487,40 Grit,A Part Of Me,Rock,sad,2003,"(2000, 2005]",9,1,2
+488,Johnny Horton,Got The Bull By The Horns,Country,happy,1996,"(1995, 2000]",2,0,1
+489,Britt Nicole,Don't Worry Now (Performance Track In Key Of Db Without Background Vocals),Christian,sad,2007,"(2005, 2010]",1,1,3
+491,Patsy Cline,I Cried All The Way To The Altar,Country,sad,1995,"(1990, 1995]",2,1,0
+493,Incubus,Warning,Rock,sad,2001,"(2000, 2005]",9,1,2
+494,Bryan Ferry,Wildcat Days (1999 Digital Remaster),Rock,sad,1994,"(1990, 1995]",9,1,0
+497,Chris Brown,So Glad,R&B,happy,2005,"(2000, 2005]",8,0,2
+498,Lollipop Lust Kill,No Answer (Outro),Rock,sad,2002,"(2000, 2005]",9,1,2
+499,Agnostic Front,Undertow,Rock,sad,1992,"(1990, 1995]",9,1,0
+501,Frederick Knight,I've Been Lonely (For So Long),R&B,sad,2000,"(1995, 2000]",8,1,1
+502,Phantom Planet,Leader (Album Version),Rock,happy,2008,"(2005, 2010]",9,0,3
+503,Amil,Anyday,Hip Hop/Rap,sad,2000,"(1995, 2000]",5,1,1
+505,30 Seconds To Mars,Night of the Hunter (Static Revenger Remix),Rock,sad,2009,"(2005, 2010]",9,1,3
+506,Hatebreed,Boxed In (Subzero),Rock,sad,2009,"(2005, 2010]",9,1,3
+507,Jennifer Lopez,Play,Pop,happy,2001,"(2000, 2005]",7,0,2
+508,Twista & The Speedknot Mobstaz,Warm Embrace (LP Version),Hip Hop/Rap,happy,2008,"(2005, 2010]",5,0,3
+510,Redman,Jam 4 U,Hip Hop/Rap,sad,1992,"(1990, 1995]",5,1,0
+511,Silverstein,BLEEDS NO MORE (Live Version),Rock,sad,2006,"(2005, 2010]",9,1,3
+512,Twista,It Feels So Good (Album Version),Hip Hop/Rap,happy,1997,"(1995, 2000]",5,0,1
+513,Kings Of Leon,Day Old Blues,Rock,sad,2004,"(2000, 2005]",9,1,2
+515,Atari Teenage Riot,Revolution Action,Electronic,happy,1999,"(1995, 2000]",4,0,1
+516,Scott Weiland,The Date ( LP Version ),Rock,sad,1998,"(1995, 2000]",9,1,1
+517,Kris Kristofferson,Killer Barracuda,Country,sad,1995,"(1990, 1995]",2,1,0
+518,Bravehearts,Sensations,Hip Hop/Rap,happy,2003,"(2000, 2005]",5,0,2
+519,Jason Mraz,Did You Get My Message?  (Live From Shubas),Rock,sad,2007,"(2005, 2010]",9,1,3
+520,Lil' Romeo,Don't Want To,Hip Hop/Rap,sad,2001,"(2000, 2005]",5,1,2
+521,Seal,The Beginning (Giro E Giro Mix),Pop,happy,1991,"(1990, 1995]",7,0,0
+522,Curtis Mayfield,Superfly (Single Mix Version),R&B,sad,2005,"(2000, 2005]",8,1,2
+523,Sugar Ray,Mean Machine (Remastered LP Version),Rock,happy,2005,"(2000, 2005]",9,0,2
+525,FFH,Why Do I,Christian,happy,2000,"(1995, 2000]",1,0,1
+526,brokeNCYDE,Schitzo,Hip Hop/Rap,sad,2008,"(2005, 2010]",5,1,3
+527,Britt Nicole,Set The World On Fire,Christian,happy,2007,"(2005, 2010]",1,0,3
+528,Toni Braxton,He Wasn't Man Enough,R&B,happy,2000,"(1995, 2000]",8,0,1
+529,Van Halen,Panama (Album Version),Rock,happy,2003,"(2000, 2005]",9,0,2
+530,Burning Spear,Tumble Down,Ska,sad,1991,"(1990, 1995]",10,1,0
+534,The Distillers,Oh Serena,Rock,sad,2000,"(1995, 2000]",9,1,1
+535,Amil,Get Down,Hip Hop/Rap,happy,2000,"(1995, 2000]",5,0,1
+536,It Dies Today,Sixth of June,Rock,sad,2007,"(2005, 2010]",9,1,3
+537,Dean Martin,Pennies From Heaven,Jazz,sad,1997,"(1995, 2000]",6,1,1
+538,Emperor,In the Wordless Chamber,Rock,sad,2001,"(2000, 2005]",9,1,2
+539,Uriah Heep,Ghost of the Ocean (Live),Rock,sad,2008,"(2005, 2010]",9,1,3
+540,Sasha,Owner Of My Heart (Album Version),Electronic,sad,2006,"(2005, 2010]",4,1,3
+541,30 Seconds To Mars,Hunter,Rock,sad,2005,"(2000, 2005]",9,1,2
+542,Silverstein,MY CONSOLATION (LP Version),Rock,sad,2006,"(2005, 2010]",9,1,3
+543,Mando Diao,All My Senses,Rock,sad,2004,"(2000, 2005]",9,1,2
+545,Madonna,Bedtime Story (Album Version),Pop,happy,1994,"(1990, 1995]",7,0,0
+547,Jah Cure,To Your Arms of Love,Ska,happy,2007,"(2005, 2010]",10,0,3
+548,Nightwish,Sleepwalker,Rock,sad,2000,"(1995, 2000]",9,1,1
+550,Zeromancer,Mosquito Coil,Rock,sad,2003,"(2000, 2005]",9,1,2
+551,Al Denson,Rain Love,Christian,happy,1999,"(1995, 2000]",1,0,1
+552,Leona Naess,Heavy Like Sunday,Rock,sad,2008,"(2005, 2010]",9,1,3
+553,Phil Collins,Dance Into The Light (LP Version),Rock,happy,1996,"(1995, 2000]",9,0,1
+554,Kathy Mattea,Standing Knee Deep In a River (Dying Of Thirst),Country,sad,1992,"(1990, 1995]",2,1,0
+556,Behemoth,He Who Breeds Pestilence,Rock,sad,2009,"(2005, 2010]",9,1,3
+557,Sylver,Sympathy,Dance,sad,2004,"(2000, 2005]",3,1,2
+558,Shakira,Poem To A Horse,Pop,sad,2001,"(2000, 2005]",7,1,2
+559,Taking Dawn,Black Diamond,Rock,sad,2010,"(2005, 2010]",9,1,3
+560,Eminem,Paul,Hip Hop/Rap,sad,1999,"(1995, 2000]",5,1,1
+561,Dixie Chicks,Lullaby,Country,happy,2006,"(2005, 2010]",2,0,3
+562,Wyclef Jean,Something About Mary,Hip Hop/Rap,happy,2000,"(1995, 2000]",5,0,1
+563,Phil Collins,That's What You Said  (LP Version),Rock,sad,1996,"(1995, 2000]",9,1,1
+566,No Address,Pretty Girl (Amended Version),Rock,happy,2005,"(2000, 2005]",9,0,2
+567,Rihanna,The Hotness (ft. Shontelle),R&B,happy,2006,"(2005, 2010]",8,0,3
+568,Helmet,Everybody Loves You,Hip Hop/Rap,happy,2004,"(2000, 2005]",5,0,2
+569,The Cure,Lost,Rock,sad,2004,"(2000, 2005]",9,1,2
+570,K's Choice,A Sound That Only You Can Hear,Rock,happy,1995,"(1990, 1995]",9,0,0
+576,Alicia Keys,Heartburn,R&B,happy,2003,"(2000, 2005]",8,0,2
+577,My Chemical Romance,Interlude (Album Version),Rock,sad,2004,"(2000, 2005]",9,1,2
+578,Hot Chip,Ready For The Floor (Radio Edit),Electronic,happy,2008,"(2005, 2010]",4,0,3
+579,OutKast,Wailin',Hip Hop/Rap,sad,1996,"(1995, 2000]",5,1,1
+581,Bad Religion,The Lie,Rock,sad,2002,"(2000, 2005]",9,1,2
+582,Jessica Simpson,Take My Breath Away,Pop,happy,2004,"(2000, 2005]",7,0,2
+584,Alicia Keys,If I Was Your Woman,R&B,sad,2005,"(2000, 2005]",8,1,2
+585,Mariah Carey,Clown,Pop,happy,2002,"(2000, 2005]",7,0,2
+586,Kane,All I Can Do,Rock,sad,2005,"(2000, 2005]",9,1,2
+588,Jonny Lang,One Person At A Time,Christian,happy,2006,"(2005, 2010]",1,0,3
+589,Jennifer Lopez,We Gotta Talk,Pop,sad,2001,"(2000, 2005]",7,1,2
+590,Cowboy Mouth,Jenny Says,Rock,sad,1996,"(1995, 2000]",9,1,1
+591,Gang Starr,Mostly Tha Voice (Explicit),Hip Hop/Rap,sad,1994,"(1990, 1995]",5,1,0
+594,Johnny Horton,The Woman I Need (Honky Tonk Mind),Country,happy,2000,"(1995, 2000]",2,0,1
+595,Dixie Chicks,Hole In My Head,Country,happy,1999,"(1995, 2000]",2,0,1
+598,King Diamond,Shrine (Reissue) (Album Version),Rock,sad,2003,"(2000, 2005]",9,1,2
+600,Dilated Peoples,World On Wheels,Hip Hop/Rap,sad,2004,"(2000, 2005]",5,1,2
+601,Foo Fighters,Overdrive,Rock,happy,2002,"(2000, 2005]",9,0,2
+602,Akon,Don't Matter,R&B,happy,2006,"(2005, 2010]",8,0,3
+603,Slipknot,Gently (Album Version),Hip Hop/Rap,sad,1996,"(1995, 2000]",5,1,1
+604,The Ataris,I Won't Spend Another Night Alone,Rock,happy,1999,"(1995, 2000]",9,0,1
+605,Chris Brown,I Love U,R&B,happy,2009,"(2005, 2010]",8,0,3
+606,Dropkick Murphys,Going Strong (Album Version),Rock,happy,2004,"(2000, 2005]",9,0,2
+607,Beyoncé,Single Ladies (Put A Ring On It),R&B,happy,2008,"(2005, 2010]",8,0,3
+608,Belle and Sebastian,I Could Be Dreaming,Rock,happy,1996,"(1995, 2000]",9,0,1
+610,Annie Lennox,A Whiter Shade Of Pale,Pop,happy,1995,"(1990, 1995]",7,0,0
+611,Blink-182,All Of This,Rock,sad,2003,"(2000, 2005]",9,1,2
+612,Beyoncé,Ring The Alarm,R&B,happy,2006,"(2005, 2010]",8,0,3
+613,Mase,Wanna Hurt Mase? (Album Version),Hip Hop/Rap,sad,1997,"(1995, 2000]",5,1,1
+614,Dimmu Borgir,The Chosen Legacy,Rock,sad,2007,"(2005, 2010]",9,1,3
+615,Shakira,Donde Estas Corazon,Pop,happy,1997,"(1995, 2000]",7,0,1
+617,James Taylor,Down In The Hole,Rock,sad,1991,"(1990, 1995]",9,1,0
+618,Soulwax,Soul Simplicity,Rock,happy,1996,"(1995, 2000]",9,0,1
+619,Sister Hazel,Come Around (Acoustic),Rock,happy,1994,"(1990, 1995]",9,0,0
+620,The Strokes,Between Love & Hate,Rock,sad,2003,"(2000, 2005]",9,1,2
+621,Britney Spears,My Prerogative,Pop,sad,2004,"(2000, 2005]",7,1,2
+622,Cockney Rejects,Oi! Oi! Oi!,Rock,happy,1997,"(1995, 2000]",9,0,1
+625,Busta Rhymes,Genesis,Hip Hop/Rap,sad,2001,"(2000, 2005]",5,1,2
+626,To My Surprise,Easy or Not (Album Version),Rock,happy,2003,"(2000, 2005]",9,0,2
+627,Bob Dylan,Trying To Get To Heaven,Rock,sad,1997,"(1995, 2000]",9,1,1
+628,Snow Patrol,Spitting Games,Rock,sad,2003,"(2000, 2005]",9,1,2
+629,Rise Against,Drones,Rock,sad,2006,"(2005, 2010]",9,1,3
+631,Thrice,The Earth Isn't Humming,Rock,sad,2008,"(2005, 2010]",9,1,3
+632,Snow Patrol,New Sensation,Rock,sad,2009,"(2005, 2010]",9,1,3
+633,Salt The Wound,From My Hands,Rock,sad,2009,"(2005, 2010]",9,1,3
+634,The Misfits,The Haunting,Rock,sad,1997,"(1995, 2000]",9,1,1
+636,Audio Adrenaline,Some Kind Of Zombie (Criscoteque Remix),Rock,sad,1997,"(1995, 2000]",9,1,1
+638,Back Door Slam,Heavy On My Mind (Album Version),Rock,sad,2007,"(2005, 2010]",9,1,3
+640,Ann Lee,So deep,Pop,sad,2000,"(1995, 2000]",7,1,1
+642,Grizzly Bear,Little Brother,Pop,sad,2006,"(2005, 2010]",7,1,3
+644,Julie Roberts,The Chance,Country,happy,2004,"(2000, 2005]",2,0,2
+647,Amorphis,Misery Path (From the Privilege of Evil),Rock,sad,1992,"(1990, 1995]",9,1,0
+648,Britney Spears,3,Pop,happy,2009,"(2005, 2010]",7,0,3
+649,Thrice,Red Sky,Rock,sad,2005,"(2000, 2005]",9,1,2
+650,Amorphis,Crimson Wave,Rock,sad,2001,"(2000, 2005]",9,1,2
+651,Lost Boyz,What's Wrong,Hip Hop/Rap,sad,1997,"(1995, 2000]",5,1,1
+652,Anti-Flag,On Independence Day,Rock,sad,2009,"(2005, 2010]",9,1,3
+653,Death From Above 1979,Romantic Rights (Jesper Dahlback Remix),Rock,happy,2004,"(2000, 2005]",9,0,2
+654,Helmet,Street Crab,Hip Hop/Rap,sad,1994,"(1990, 1995]",5,1,0
+656,The Ataris,Whatever Lies Will Help You Rest,Rock,sad,2006,"(2005, 2010]",9,1,3
+657,Michael Card,Joy In The Journey (The Final Word Album Version),Christian,happy,1994,"(1990, 1995]",1,0,0
+659,Bob Marley & The Wailers,Smile Jamaica,Ska,sad,1992,"(1990, 1995]",10,1,0
+660,Taking Back Sunday,Catholic Knees (Album Version),Rock,sad,2009,"(2005, 2010]",9,1,3
+661,Belphegor,The Sukkubus Lustrate,Rock,sad,2008,"(2005, 2010]",9,1,3
+662,Brian Littrell,Wish,Pop,sad,2006,"(2005, 2010]",7,1,3
+663,Arctic Monkeys,Fake Tales Of San Francisco,Rock,sad,2004,"(2000, 2005]",9,1,2
+664,Seven Mary Three,Hammer & a Stone,Rock,sad,2008,"(2005, 2010]",9,1,3
+665,Sunscreem,Perfect Motion,Electronic,happy,1992,"(1990, 1995]",4,0,0
+666,Coldplay,Speed Of Sound (Live),Rock,sad,2005,"(2000, 2005]",9,1,2
+667,Bloc Party,One More Chance,Rock,sad,2009,"(2005, 2010]",9,1,3
+668,George Huff,Have Yourself A Merry Little Christmas (LP Version),Pop,happy,2001,"(2000, 2005]",7,0,2
+669,The Smashing Pumpkins,Real Love,Rock,happy,2000,"(1995, 2000]",9,0,1
+670,Rihanna,We Ride,R&B,sad,2006,"(2005, 2010]",8,1,3
+671,Oceansize,New Pin (edit),Rock,sad,2005,"(2000, 2005]",9,1,2
+672,Blackalicious,World Of Vibrations (Album Version),Hip Hop/Rap,happy,2005,"(2000, 2005]",5,0,2
+673,Dishwalla,Moisture,Rock,sad,1995,"(1990, 1995]",9,1,0
+675,Aiden,Black Market Hell,Rock,sad,2009,"(2005, 2010]",9,1,3
+676,Eastmountainsouth,Hard Times,Pop,sad,2003,"(2000, 2005]",7,1,2
+677,David Phelps,One King (Album Version),Christian,sad,2007,"(2005, 2010]",1,1,3
+678,Darden Smith,Perfect Moment,Blues,happy,2002,"(2000, 2005]",0,0,2
+679,VHS Or Beta,You Got Me (The Juan Maclean Dub),Rock,happy,2006,"(2005, 2010]",9,0,3
+681,Kane,Rain Down On Me,Rock,happy,2001,"(2000, 2005]",9,0,2
+682,Foals,Red Socks Pugie,Rock,sad,2008,"(2005, 2010]",9,1,3
+683,Faith Hill,I Want You (Album Version),Country,happy,2005,"(2000, 2005]",2,0,2
+684,Liquid Gang,I Applaud You  (LP Version),Rock,happy,2000,"(1995, 2000]",9,0,1
+685,Carolyn Arends,Happy,Christian,happy,1999,"(1995, 2000]",1,0,1
+687,Tracy Byrd,Walking To Jerusalem,Country,happy,1996,"(1995, 2000]",2,0,1
+688,Casiotone For The Painfully Alone,White Jetta,Jazz,sad,2009,"(2005, 2010]",6,1,3
+689,Michael Card,Arise_ My Love (Song Of Solomon),Christian,sad,1991,"(1990, 1995]",1,1,0
+690,Rachael Starr,Till There Was You (John Creamer & Stephane K Remix),Electronic,sad,2005,"(2000, 2005]",4,1,2
+691,Rancid,Meteor Of War (Album Version),Ska,sad,2000,"(1995, 2000]",10,1,1
+694,The Gathering,Gaya's Dream,Electronic,sad,2001,"(2000, 2005]",4,1,2
+696,Amy Winehouse,Valerie,R&B,sad,2007,"(2005, 2010]",8,1,3
+700,Dixie Chicks,Give It Up Or Let Me Go,Country,happy,1998,"(1995, 2000]",2,0,1
+702,Fake Problems,Tabernacle Song,Rock,sad,2009,"(2005, 2010]",9,1,3
+704,Yellowcard,One Year_ Six Months,Rock,sad,2003,"(2000, 2005]",9,1,2
+705,Elvenking,Trows Kind,Rock,sad,2006,"(2005, 2010]",9,1,3
+706,Jason Michael Carroll,No Good In Goodbye,Country,sad,2007,"(2005, 2010]",2,1,3
+709,Helmet,Give It,Hip Hop/Rap,sad,1992,"(1990, 1995]",5,1,0
+710,Dax Riggs,Radiation Blues,Blues,sad,2007,"(2005, 2010]",0,1,3
+711,Creedence Clearwater Revisited,Proud mary,Rock,happy,1998,"(1995, 2000]",9,0,1
+712,Elvenking,A Fiery Stride (Ltd. Edition Bonus),Rock,happy,2004,"(2000, 2005]",9,0,2
+713,Fernando Ortega,Don't Let Me Come Home A Stranger (LP Version),Christian,sad,1997,"(1995, 2000]",1,1,1
+714,Amorphis,Into Hiding,Rock,sad,1994,"(1990, 1995]",9,1,0
+716,LL Cool J,Headsprung,Hip Hop/Rap,happy,2004,"(2000, 2005]",5,0,2
+718,The All American Rejects,The Future Has Arrived,Rock,happy,2007,"(2005, 2010]",9,0,3
+719,Camp Lo,Sparkle,Hip Hop/Rap,sad,1997,"(1995, 2000]",5,1,1
+720,Daniel Johnston,High Horse,Jazz,sad,2009,"(2005, 2010]",6,1,3
+721,Marc Broussard,Going Home (Album Version),Pop,sad,2008,"(2005, 2010]",7,1,3
+722,Lifer,Breathless,Rock,sad,2001,"(2000, 2005]",9,1,2
+723,Future Leaders of the World,Spotlight,Rock,sad,2004,"(2000, 2005]",9,1,2
+724,Zeromancer,The Death Of Romance,Rock,sad,2010,"(2005, 2010]",9,1,3
+725,Deftones,Lotion (LP Version),Rock,sad,1997,"(1995, 2000]",9,1,1
+726,Jesse Malin,Going Out West,Rock,sad,2004,"(2000, 2005]",9,1,2
+727,Naughty By Nature,Family Tree,Hip Hop/Rap,sad,2002,"(2000, 2005]",5,1,2
+729,Stephen Marley,Mind Control,Ska,sad,2005,"(2000, 2005]",10,1,2
+730,Novembre,Reason,Rock,happy,2006,"(2005, 2010]",9,0,3
+731,Berlin,Blink Of An Eye (Alternative),Rock,happy,2002,"(2000, 2005]",9,0,2
+733,Pearl Jam,You Are,Rock,sad,2002,"(2000, 2005]",9,1,2
+734,Shai Hulud,We Who Finish Last,Rock,sad,2008,"(2005, 2010]",9,1,3
+736,Story Of The Year,Meathead (Album Version) (Non-PA),Rock,happy,2005,"(2000, 2005]",9,0,2
+737,Atomship,Whitfield,Rock,sad,2004,"(2000, 2005]",9,1,2
+739,ATB,Believe In Me (Clubb Mix),Electronic,happy,2005,"(2000, 2005]",4,0,2
+740,Shania Twain,Two Hearts One Love,Country,happy,1999,"(1995, 2000]",2,0,1
+741,Evanescence,Missing (Live in Europe),Rock,sad,2003,"(2000, 2005]",9,1,2
+742,Faith Hill,Unsaveable (Album Version),Country,sad,2002,"(2000, 2005]",2,1,2
+743,Suicidal Tendencies,Monopoly On Sorrow,Rock,sad,1992,"(1990, 1995]",9,1,0
+744,Dark new Day,Free (Album Version),Rock,sad,2005,"(2000, 2005]",9,1,2
+745,Peter Gallagher,Everytime It Rains,Jazz,sad,2005,"(2000, 2005]",6,1,2
+747,Raze,Celebration (The Plan Album Version),Hip Hop/Rap,happy,2000,"(1995, 2000]",5,0,1
+748,Bebo Norman,Sunday,Christian,sad,2006,"(2005, 2010]",1,1,3
+749,Van Halen,Runaround (Live Version),Rock,happy,1991,"(1990, 1995]",9,0,0
+750,Faith Hill,Red Umbrella (Album Version),Country,happy,2007,"(2005, 2010]",2,0,3
+752,Letters To Cleo,Co-Pilot (Album Version),Rock,happy,1997,"(1995, 2000]",9,0,1
+754,Marshall Crenshaw,Rave On (Live 1982),Rock,happy,2000,"(1995, 2000]",9,0,1
+755,Kiss,Every Time I Look At You,Rock,sad,1992,"(1990, 1995]",9,1,0
+756,Guns N' Roses,Catcher In The Rye,Rock,sad,2008,"(2005, 2010]",9,1,3
+757,Danielle Bollinger,When the Broken Hearted Love Again,Electronic,happy,2006,"(2005, 2010]",4,0,3
+758,Missy Higgins,The Special Two (Australian Version),Pop,sad,2007,"(2005, 2010]",7,1,3
+759,Dropkick Murphys,The Only Road (Album Version),Rock,sad,2011,"(2010, 2015]",9,1,4
+760,Carpenters,An Old Fashioned Christmas,Rock,sad,1992,"(1990, 1995]",9,1,0
+761,Sick Of It All,Consume (LP Version),Rock,sad,1994,"(1990, 1995]",9,1,0
+762,3 Doors Down,Be Like That,Rock,sad,1999,"(1995, 2000]",9,1,1
+763,DMX,I'ma Bang,Hip Hop/Rap,sad,2001,"(2000, 2005]",5,1,2
+764,The White Stripes,A Martyr For My Love For You,Rock,happy,2007,"(2005, 2010]",9,0,3
+766,The Berzerker,Pure Hatred,Electronic,sad,2002,"(2000, 2005]",4,1,2
+767,Mungo Jerry,Pushbike Song,Rock,happy,2001,"(2000, 2005]",9,0,2
+768,Bone Thugs-N-Harmony,Servin' Tha Fiends,Hip Hop/Rap,sad,2000,"(1995, 2000]",5,1,1
+769,Bad Religion,Infected,Rock,sad,1994,"(1990, 1995]",9,1,0
+770,Gwen Stefani,What You Waiting For?,Pop,happy,2004,"(2000, 2005]",7,0,2
+771,Juelz Santana,There It Go (The Whistle Song),Hip Hop/Rap,happy,2005,"(2000, 2005]",5,0,2
+772,The Game,Da Shit,Hip Hop/Rap,sad,2006,"(2005, 2010]",5,1,3
+773,Jesse Malin,Since You're In Love,Rock,sad,2004,"(2000, 2005]",9,1,2
+774,Franz Ferdinand,No You Girls,Rock,happy,2009,"(2005, 2010]",9,0,3
+775,The Prodigy,What Evil Lurks,Electronic,sad,1991,"(1990, 1995]",4,1,0
+778,Scar Symmetry,Abstracted,Rock,sad,2006,"(2005, 2010]",9,1,3
+779,Nick Cave & The Bad Seeds,Loverman,Rock,sad,1994,"(1990, 1995]",9,1,0
+780,Slick Rick,Kill Niggaz,Hip Hop/Rap,sad,1999,"(1995, 2000]",5,1,1
+781,Rihanna,Breakin' Dishes,R&B,sad,2007,"(2005, 2010]",8,1,3
+782,The Fray,Absolute,Rock,sad,2009,"(2005, 2010]",9,1,3
+783,Santana,Interplanetary Party,Blues,happy,2007,"(2005, 2010]",0,0,3
+784,Roger Sanchez,Lost,Electronic,sad,2006,"(2005, 2010]",4,1,3
+785,Shawn Colvin,These Four Walls,Rock,sad,2006,"(2005, 2010]",9,1,3
+786,Simple Minds,See The Lights (2002 Digital Remaster),Rock,sad,1991,"(1990, 1995]",9,1,0
+787,Franz Ferdinand,Do You Want To,Rock,happy,2005,"(2000, 2005]",9,0,2
+789,Kanye West,School Spirit Skit 2,Hip Hop/Rap,happy,2003,"(2000, 2005]",5,0,2
+793,MxPx,You Found Me,Rock,happy,1995,"(1990, 1995]",9,0,0
+795,Akon,Lonely,R&B,sad,2004,"(2000, 2005]",8,1,2
+796,Gym Class Heroes,To Bob Ross With Love (Album Version),Hip Hop/Rap,happy,2005,"(2000, 2005]",5,0,2
+797,Stellar Kart,I Give Up (Album Version),Christian,sad,2008,"(2005, 2010]",1,1,3
+798,Bon Jovi,The Distance,Rock,happy,2002,"(2000, 2005]",9,0,2
+799,FFH,You And Only You,Christian,happy,2004,"(2000, 2005]",1,0,2
+801,Phantom Planet,After Hours,Rock,sad,2004,"(2000, 2005]",9,1,2
+802,Vonray,Part Of Me (LP Version),Rock,sad,2003,"(2000, 2005]",9,1,2
+805,Jesse Malin,Broken Radio,Rock,sad,2007,"(2005, 2010]",9,1,3
+806,Twila Paris,Come Emmanuel (House Of Worship Album Version),Christian,happy,2003,"(2000, 2005]",1,0,2
+807,Leona Naess,Star Signs,Rock,sad,2003,"(2000, 2005]",9,1,2
+808,Set Your Goals,summer jam,Rock,happy,2009,"(2005, 2010]",9,0,3
+809,Marty Robbins,A Castle In The Sky,Country,happy,2008,"(2005, 2010]",2,0,3
+810,Urge Overkill,Crackbabies,Rock,sad,1993,"(1990, 1995]",9,1,0
+811,Mint Condition,Call Me,R&B,sad,1999,"(1995, 2000]",8,1,1
+812,Erin O'Donnell,You Were The One (Wide Wide World Album Version),Christian,sad,2003,"(2000, 2005]",1,1,2
+813,Annie Lennox,Little Bird,Pop,happy,1992,"(1990, 1995]",7,0,0
+814,Mudhoney,New Meaning,Rock,sad,2008,"(2005, 2010]",9,1,3
+815,Wyclef Jean,Guantanamera,Hip Hop/Rap,happy,1997,"(1995, 2000]",5,0,1
+816,LORE,Release,Hip Hop/Rap,sad,2006,"(2005, 2010]",5,1,3
+818,Static-X,Night Terrors (Album Version),Rock,sad,2005,"(2000, 2005]",9,1,2
+821,Jennifer Lopez,Still,Pop,sad,2002,"(2000, 2005]",7,1,2
+822,Sister Hazel,Vacation Rain (Album),Rock,happy,2010,"(2005, 2010]",9,0,3
+823,Justin Timberlake,Love Don't Love Me (Justin Timberlake) (Amended Version),Pop,happy,2003,"(2000, 2005]",7,0,2
+824,Sade,Morning Bird,R&B,sad,2010,"(2005, 2010]",8,1,3
+825,Slipknot,Skin Ticket (Live version) (Album Version),Hip Hop/Rap,sad,2001,"(2000, 2005]",5,1,2
+826,Owl City,On The Wing,Electronic,happy,2008,"(2005, 2010]",4,0,3
+827,Keb' Mo',The Door,Blues,sad,2000,"(1995, 2000]",0,1,1
+828,Brooke White,Hold Up My Heart,Rock,happy,2009,"(2005, 2010]",9,0,3
+829,The Ocean,Eoarchaean,Rock,sad,2007,"(2005, 2010]",9,1,3
+831,City High,What Would You Do?,R&B,sad,2001,"(2000, 2005]",8,1,2
+832,Martina McBride,Heart Trouble,Country,sad,1993,"(1990, 1995]",2,1,0
+833,Reach 454,6 Yrs (Album Version ),Rock,sad,2003,"(2000, 2005]",9,1,2
+835,Soulwax,Kill Your Darlings,Rock,sad,1996,"(1995, 2000]",9,1,1
+836,Every Time I Die,Your Touch Versus Death,Rock,sad,2000,"(1995, 2000]",9,1,1
+837,The Killers,A White Demon Love Song (Soundtrack Album Version),Rock,sad,2009,"(2005, 2010]",9,1,3
+839,Jack Johnson,Adrift,Rock,sad,2008,"(2005, 2010]",9,1,3
+840,Blue Rodeo,Fools Like You,Rock,sad,1992,"(1990, 1995]",9,1,0
+841,Bob Marley & The Wailers,Three Little Birds,Ska,happy,2007,"(2005, 2010]",10,0,3
+842,New York Dolls,Trash (live Paris),Rock,sad,2000,"(1995, 2000]",9,1,1
+843,Kool Moe Dee,Death Blow,Hip Hop/Rap,sad,1991,"(1990, 1995]",5,1,0
+845,Martina McBride,Anything's Better Than Feelin' The Blues,Country,sad,1999,"(1995, 2000]",2,1,1
+847,Mariah Carey,Honey,Pop,happy,1997,"(1995, 2000]",7,0,1
+850,Evanescence,Good Enough,Rock,sad,2006,"(2005, 2010]",9,1,3
+851,Lighthouse Family,Ocean Drive,Pop,happy,1995,"(1990, 1995]",7,0,0
+852,Hatebreed,Mark My Words (Album Version),Rock,sad,1997,"(1995, 2000]",9,1,1
+855,Taking Back Sunday,I Am Fred Astaire (Album Version),Rock,happy,2004,"(2000, 2005]",9,0,2
+856,Cindy Morgan,I Will Be Free (LP Version),Christian,sad,2007,"(2005, 2010]",1,1,3
+857,Coldplay,The World Turned Upside Down,Rock,sad,2005,"(2000, 2005]",9,1,2
+858,Deftones,Korea (LP Version),Rock,sad,2000,"(1995, 2000]",9,1,1
+859,4Him,He Never Changes,Christian,happy,1991,"(1990, 1995]",1,0,0
+862,White Heart,Speed Of Sound (Emergency Broadcast Album Version),Christian,happy,2005,"(2000, 2005]",1,0,2
+863,Thrice,All That's Left,Rock,sad,2003,"(2000, 2005]",9,1,2
+864,Eleanor McEvoy,Easy To Lose Hope,Rock,sad,1999,"(1995, 2000]",9,1,1
+867,Bone Thugs-N-Harmony,2 Glocks,Hip Hop/Rap,sad,2000,"(1995, 2000]",5,1,1
+868,Rihanna,Good Girl Gone Bad,R&B,sad,2007,"(2005, 2010]",8,1,3
+869,Nick Cave & The Bad Seeds,Christina The Astonishing (2010 Digital Remaster),Rock,sad,1992,"(1990, 1995]",9,1,0
+870,Melissa Auf der Maur,The Key,Rock,sad,2010,"(2005, 2010]",9,1,3
+871,System of a Down,Streamline,Rock,sad,2001,"(2000, 2005]",9,1,2
+874,Toni Braxton,Best Friend,R&B,sad,1993,"(1990, 1995]",8,1,0
+875,Republica,Pub Pusher,Electronic,sad,1998,"(1995, 2000]",4,1,1
+876,Jars Of Clay,Don't Stop,Rock,happy,2009,"(2005, 2010]",9,0,3
+877,Maximilian Hecker,Let Me Out,Pop,sad,2001,"(2000, 2005]",7,1,2
+879,3 Doors Down,Here Without You,Rock,sad,2002,"(2000, 2005]",9,1,2
+882,Josh Turner,Softly And Tenderly,Country,sad,2004,"(2000, 2005]",2,1,2
+883,Slum Village,CB4,Hip Hop/Rap,sad,2000,"(1995, 2000]",5,1,1
+886,Erick Sermon,I'm Hot,Hip Hop/Rap,happy,2001,"(2000, 2005]",5,0,2
+887,Mariah Carey,Touch My Body,Pop,happy,2008,"(2005, 2010]",7,0,3
+888,Arc Angels,Sent By Angels,Blues,happy,1992,"(1990, 1995]",0,0,0
+889,Randy Travis,Don't Take Your Love Away From Me (Album Version),Country,sad,1996,"(1995, 2000]",2,1,1
+890,Bryan White,Love Happens Just Like That (LP Version),Country,happy,1999,"(1995, 2000]",2,0,1
+893,Devo,Be Stiff (Live),Rock,happy,1993,"(1990, 1995]",9,0,0
+894,System of a Down,War?,Rock,sad,1996,"(1995, 2000]",9,1,1
+895,Joe Bonamassa,So Many Roads,Rock,sad,2006,"(2005, 2010]",9,1,3
+896,Blind Willie Johnson,John the Revelator,Blues,sad,1991,"(1990, 1995]",0,1,0
+897,Erick Sermon,Erick Sermon,Hip Hop/Rap,happy,1993,"(1990, 1995]",5,0,0
+898,Pepper,Point And Shoot (Demo),Rock,happy,2007,"(2005, 2010]",9,0,3
+900,EPMD,Head Banger,Hip Hop/Rap,sad,1992,"(1990, 1995]",5,1,0
+901,Donnie McClurkin,Psalm 27,Christian,happy,2000,"(1995, 2000]",1,0,1
+902,Bessie Smith,Chicago Bound Blues,Blues,sad,1991,"(1990, 1995]",0,1,0
+905,Winds Of Plague,Origins And Endings,Rock,sad,2008,"(2005, 2010]",9,1,3
+906,Brooke Valentine,American Girl,Hip Hop/Rap,happy,2005,"(2000, 2005]",5,0,2
+907,Behemoth,Malice,Rock,sad,2000,"(1995, 2000]",9,1,1
+908,The Mighty Mighty Bosstones,Pictures To Prove It,Ska,sad,1994,"(1990, 1995]",10,1,0
+909,The Cardigans,Marvel Hill,Rock,sad,1998,"(1995, 2000]",9,1,1
+910,Kenny Rogers,Love Is What We Make It,Country,happy,1999,"(1995, 2000]",2,0,1
+912,Robert Palmer,Man Smart Woman Smarter,Soul,happy,1992,"(1990, 1995]",11,0,0
+913,Leona Naess,Paper Thin,Rock,sad,2000,"(1995, 2000]",9,1,1
+915,Gorillaz,All Alone (Live),Hip Hop/Rap,sad,2005,"(2000, 2005]",5,1,2
+916,Phil Collins,Please Come Out Tonight,Rock,sad,1993,"(1990, 1995]",9,1,0
+918,Lil Wayne,Fly Talkin',Hip Hop/Rap,sad,2002,"(2000, 2005]",5,1,2
+919,Seventh Day Slumber,Famous One,Rock,happy,2009,"(2005, 2010]",9,0,3
+920,Firehouse,Talk Of The Town,Rock,happy,1992,"(1990, 1995]",9,0,0
+921,Casiotone For The Painfully Alone,Attic Room,Jazz,sad,2003,"(2000, 2005]",6,1,2
+922,The Prodigy,Firestarter,Electronic,sad,1996,"(1995, 2000]",4,1,1
+923,Phil Collins,Testify,Rock,sad,2002,"(2000, 2005]",9,1,2
+924,Adam Ant,Mohair Locker Room Pin-Up Boys,Rock,happy,1998,"(1995, 2000]",9,0,1
+925,Gary Go,Open Arms,Pop,sad,2009,"(2005, 2010]",7,1,3
+926,He Is Legend,Stampede,Rock,sad,2006,"(2005, 2010]",9,1,3
+927,Cece Winans,Come On Back Home,Christian,sad,1998,"(1995, 2000]",1,1,1
+928,bel canto,Rumour (Abstract Hip Hop Mix),Hip Hop/Rap,happy,1996,"(1995, 2000]",5,0,1
+930,The Cardigans,Explode,Rock,sad,1998,"(1995, 2000]",9,1,1
+931,Alicia Keys,Karma,R&B,sad,2003,"(2000, 2005]",8,1,2
+934,30 Seconds To Mars,End Of The Beginning,Rock,sad,2002,"(2000, 2005]",9,1,2
+936,Naughty By Nature,Ring The Alarm,Hip Hop/Rap,sad,1999,"(1995, 2000]",5,1,1
+937,Janet Jackson,Again (Instrumental),R&B,sad,1993,"(1990, 1995]",8,1,0
+938,Ben Jelen,Come On (Sessions@AOL Version),Pop,sad,2004,"(2000, 2005]",7,1,2
+940,Roger Creager,All For The Sake Of The Song,Country,sad,2003,"(2000, 2005]",2,1,2
+941,Phil Collins,Everyday,Rock,sad,1993,"(1990, 1995]",9,1,0
+942,Silverstein,Defend You (Album Version),Rock,sad,2005,"(2000, 2005]",9,1,2
+943,Life In Your Way,When Rules Change,Rock,happy,2005,"(2000, 2005]",9,0,2
+944,22-20s,Hold On,Rock,sad,2004,"(2000, 2005]",9,1,2
+947,Joey Negro,Make A Move On Me,Electronic,happy,2005,"(2000, 2005]",4,0,2
+948,Bloc Party,Zephyrus,Rock,sad,2008,"(2005, 2010]",9,1,3
+949,Atreyu,Shameful (LP Version),Rock,sad,2006,"(2005, 2010]",9,1,3
+951,Jimmy Wayne,She Runs,Country,happy,2003,"(2000, 2005]",2,0,2
+952,Sister Hazel,Concede,Rock,sad,1997,"(1995, 2000]",9,1,1
+953,Basement Jaxx,Feelings Gone (feat. Sam Sparro) (Joachim Garraud Remix),Electronic,sad,2009,"(2005, 2010]",4,1,3
+954,Jesus Jones,Yellow Brown,Electronic,sad,1993,"(1990, 1995]",4,1,0
+955,Deftones,No Ordinary Love (Remastered LP Version),Rock,sad,2005,"(2000, 2005]",9,1,2
+958,Queens Of The Stone Age,Everybody's Gonna Be Happy,Rock,happy,2002,"(2000, 2005]",9,0,2
+960,George Michael,Shoot The Dog,Rock,happy,2004,"(2000, 2005]",9,0,2
+961,3 Doors Down,Better Life,Rock,sad,2007,"(2005, 2010]",9,1,3
+962,Radiohead,Everything In Its Right Place,Rock,sad,2000,"(1995, 2000]",9,1,1
+963,Talib Kweli,Everything Man (Album Version),Hip Hop/Rap,sad,2007,"(2005, 2010]",5,1,3
+964,Open Hand,Tough Guy,Rock,sad,2004,"(2000, 2005]",9,1,2
+967,The Game,Scream On Em,Hip Hop/Rap,sad,2006,"(2005, 2010]",5,1,3
+968,Dinosaur Jr,Green Mind,Rock,sad,1991,"(1990, 1995]",9,1,0
+969,Jesse Malin,Harmony,Rock,sad,2008,"(2005, 2010]",9,1,3
+970,Wednesday 13,Haunt Me (Album Version),Rock,sad,2005,"(2000, 2005]",9,1,2
+972,Sandi Thom,When Horsepower Meant What It Said,Pop,happy,2006,"(2005, 2010]",7,0,3
+973,Chimaira,Army Of Me (Album Version),Rock,sad,2003,"(2000, 2005]",9,1,2
+975,Charlotte Gainsbourg,IRM,Pop,sad,2009,"(2005, 2010]",7,1,3
+976,DMX,Look Thru My Eyes,Hip Hop/Rap,sad,1998,"(1995, 2000]",5,1,1
+978,Joe Bonamassa,I Know A Place,Rock,sad,2010,"(2005, 2010]",9,1,3
+979,Asleep At The Wheel,The Letter That Johnny Walker Read,Country,sad,2002,"(2000, 2005]",2,1,2
+981,Phantom Planet,The Meantime,Rock,happy,2004,"(2000, 2005]",9,0,2
+984,Drop Dead_ Gorgeous,Are You Happy (Album Version),Rock,sad,2006,"(2005, 2010]",9,1,3
+986,Dungeon Family,Follow The Light,Hip Hop/Rap,sad,2001,"(2000, 2005]",5,1,2
+987,Strata,Night Falls (The Weight Of It),Rock,sad,2007,"(2005, 2010]",9,1,3
+989,Kanye West,Diamonds From Sierra Leone,Hip Hop/Rap,happy,2005,"(2000, 2005]",5,0,2
+990,The Killers,A Dustland Fairytale,Rock,sad,2008,"(2005, 2010]",9,1,3
+993,4Him,Strange Way To Save The World,Christian,happy,2000,"(1995, 2000]",1,0,1
+995,Sade,All About Our Love,R&B,sad,2000,"(1995, 2000]",8,1,1
+996,New Found Glory,Don't Let Her Pull You Down,Rock,happy,2009,"(2005, 2010]",9,0,3
+997,Mindy McCready,Ten Thousand Angels,Country,happy,1996,"(1995, 2000]",2,0,1
+999,Seventh Day Slumber,Shattered Life,Rock,sad,2005,"(2000, 2005]",9,1,2
